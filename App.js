@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
      fontSize: '30px'
   },
    input:{
-    borderColor:'#1CC',
+    borderColor:'#11CC',
     borderWidth:2,
     fontSize:30,
     width:'80%'
